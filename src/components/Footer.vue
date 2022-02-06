@@ -16,5 +16,6 @@ export default {
         bottom: 0;
         width: 100vw;
         text-align: left;
+        color: #533e85;
     }
 </style>
